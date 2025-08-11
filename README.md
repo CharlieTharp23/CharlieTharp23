@@ -1,4 +1,4 @@
-## Hi, , I'm Charlie
+## Hi, I'm Charlie
 
 🧠 Computer Science Student at Georiga Tech<br/>
 📈 Driven To learn more about AI and Data science<br/>
