@@ -3,9 +3,6 @@
 🧠 Computer Science Student at Georiga Tech<br/>
 📈 Driven To learn more about AI and Data science<br/>
 🔥 Currently working on: X-STEP AI<br/>
-🗣️ Learn more about me on my [LinkedIN](www.linkedin.com/in/charlie-tharp)
-
-
 
 
 ## 🌐 Socials:
